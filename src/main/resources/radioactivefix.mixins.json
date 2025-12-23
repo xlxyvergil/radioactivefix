@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.xlxyvergil.radioactivefix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "radioactivefix.refmap.json",
+  "mixins": [
+    "MapVariablesMixin"
+  ],
+  "client": [],
+  "server": [],
+  "minVersion": "0.8"
+}
